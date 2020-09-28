@@ -32,7 +32,6 @@ export const ROUTES: Routes = [
     path: ':pizzaId',
     component: fromContainers.ProductItemComponent,
   }
-  {}
 ];
 
 @NgModule({
